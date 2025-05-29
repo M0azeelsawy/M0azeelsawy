@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hey there! I'm Moaz Elsawy 👋</h1>
+<p align="center">A web developer passionate about building scalable apps with Node.js, React, and PHP.</p>
 
-<!--
-**M0azeelsawy/M0azeelsawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://via.placeholder.com/600x200.png?text=Moaz+Elsawy+Portfolio" alt="Banner"/>
+</p>
 
-Here are some ideas to get you started:
+### 🌟 About Me
+- 🔭 Working on a WhatsApp Automation SaaS and a personal portfolio.
+- 🌱 Learning Next.js and advanced backend optimization.
+- 💻 Skills: JavaScript, Node.js, React, PHP, WordPress, MongoDB, Express.
+- 📍 Based in: [Your Location, e.g., Egypt]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **[Portfolio](https://github.com/M0azeelsawy/portfolio)**: A Node.js-powered portfolio with WebP image optimization for fast loading.
+- **[WhatsApp Automation](https://github.com/M0azeelsawy/whatsapp-automation)**: A SaaS platform with a responsive React frontend and secure authentication.
+- **[MERN Blog](https://github.com/M0azeelsawy/mern-blog)**: A full-stack blog built with MongoDB, Express, React, and Node.js.
+
+### 📊 GitHub Stats
+![Moaz's Stats](https://github-readme-stats.vercel.app/api?username=M0azeelsawy&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M0azeelsawy&layout=compact)
+
+### 📬 Connect with Me
+- 🌐 [Portfolio](https://arzaq.app) *(Update with live URL if available)*
+- 🐦 [X Profile](https://x.com/your-username)
+- 📫 Email: [your.email@example.com]
